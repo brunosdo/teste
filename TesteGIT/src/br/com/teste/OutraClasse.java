@@ -4,6 +4,7 @@ public class OutraClasse {
 	
 	public void nada(){
 		System.out.println("NADA");
+		System.out.println("NADA2");
 	}
 
 }
