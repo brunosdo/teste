@@ -8,6 +8,10 @@ public class TesteMain {
 	}
 	
 	public static void hello(){
-		System.out.println("Hello");
+		System.out.println("Hello World 2");
+	}
+	
+	public static void hi(){
+		System.out.println("Hi World");
 	}
 }
